@@ -30,6 +30,8 @@ Este proyecto está licenciado bajo la **GPL-3.0**. Consulta el archivo `LICENSE
 
 ## 🌐 Enlaces relacionados
 
-- [Sitio oficial de FlarioX](https://flariox.github.io)
+- [Sitio oficial de FlarioX](https://www.flariox.com)
 - [Documentación del proyecto](https://github.com/flariox-project-docs)
 - [Repositorio de recursos](https://github.com/flariox-resources)
+
+- [Repositorio de herramienta](https://github.com/flariox-tools)
